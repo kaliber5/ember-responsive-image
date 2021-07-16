@@ -115,7 +115,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-qunit": "^6.1.1",
     "execa": "^5.1.1",
-    "jest": "^26.6.3",
+    "jest": "^27.0.6",
     "jpegquality": "^0.1.7",
     "loader.js": "^4.7.0",
     "npm-run-all": "^4.1.5",
