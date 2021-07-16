@@ -35,7 +35,7 @@
     "@glimmer/component": "^1.0.4",
     "@glimmer/tracking": "^1.0.4",
     "@rollup/plugin-commonjs": "^11.1.0",
-    "@rollup/plugin-node-resolve": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
     "async-q": "^0.3.1",
     "base-n": "^3.0.0",
     "blurhash": "^1.1.3",
